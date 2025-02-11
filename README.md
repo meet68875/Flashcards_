@@ -17,7 +17,7 @@
 
 
 ## 📍 Overview
-The Almabetter Flashcard Capstone Project is a frontend-focused endeavor designed to deliver an engaging and intuitive flashcard application. The primary goal of this project is to create a seamless user experience for studying and reinforcing knowledge through interactive digital flashcards.
+Flashcard Capstone Project is a frontend-focused endeavor designed to deliver an engaging and intuitive flashcard application. The primary goal of this project is to create a seamless user experience for studying and reinforcing knowledge through interactive digital flashcards.
 
 ---
 
